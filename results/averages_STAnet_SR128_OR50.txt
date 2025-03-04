@@ -1,0 +1,22 @@
+Subject 1 average accuracy: 0.6564  standard deviation across 5 folds: 0.1065
+Subject 2 average accuracy: 0.6411  standard deviation across 5 folds: 0.1464
+Subject 3 average accuracy: 0.5713  standard deviation across 5 folds: 0.0434
+Subject 4 average accuracy: 0.5694  standard deviation across 5 folds: 0.0816
+Subject 5 average accuracy: 0.5612  standard deviation across 5 folds: 0.0431
+Subject 6 average accuracy: 0.6800  standard deviation across 5 folds: 0.1529
+Subject 7 average accuracy: 0.6433  standard deviation across 5 folds: 0.1336
+Subject 8 average accuracy: 0.6069  standard deviation across 5 folds: 0.0705
+Subject 9 average accuracy: 0.5377  standard deviation across 5 folds: 0.0467
+Subject 10 average accuracy: 0.5752  standard deviation across 5 folds: 0.0598
+Subject 11 average accuracy: 0.8148  standard deviation across 5 folds: 0.1050
+Subject 12 average accuracy: 0.5820  standard deviation across 5 folds: 0.1163
+Subject 13 average accuracy: 0.5623  standard deviation across 5 folds: 0.0337
+Subject 14 average accuracy: 0.7327  standard deviation across 5 folds: 0.1794
+Subject 15 average accuracy: 0.6730  standard deviation across 5 folds: 0.1253
+Subject 16 average accuracy: 0.7088  standard deviation across 5 folds: 0.0810
+Subject 17 average accuracy: 0.7500  standard deviation across 5 folds: 0.1225
+Subject 18 average accuracy: 0.6345  standard deviation across 5 folds: 0.1292
+Subject 19 average accuracy: 0.6408  standard deviation across 5 folds: 0.1457
+Subject 20 average accuracy: 0.5845  standard deviation across 5 folds: 0.0691
+Overall average accuracy across all subjects: 0.6363
+Standard deviation across all subjects: 0.0717
